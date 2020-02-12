@@ -1,0 +1,29 @@
+{
+    "name": "panel_management",
+    "version": "1.0.0",
+    "description": "panel_management website",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jasmine"
+    },
+    "dependencies": {
+        "jasmine": "^3.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Clemenard/TDD_panel_management.git"
+    },
+    "keywords": [
+        "panel_management",
+        "website"
+    ],
+    "author": "Clemenard",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/Clemenard/TDD_panel_management/issues"
+    },
+    "homepage": "https://github.com/Clemenard/TDD_panel_management#readme"
+}
